@@ -1,0 +1,5 @@
+{
+  "name": "SmartTask",
+  "description": "A productivity-focused todo list that uses Gemini to break down complex tasks and provide daily motivation.",
+  "requestFramePermissions": []
+}
